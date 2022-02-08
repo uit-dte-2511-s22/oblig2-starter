@@ -2,3 +2,5 @@
 GIT samarbeids oppgave
 
 Det er to vedlagte filer, dette er registreringer foretatt i en 60 km/t sone på 5 km. Benytt disse for å teste ut funksjonaliteten i programmet ditt.
+
+Unittest radar_test kjøres automatisk ved retting, denne skal ikke endres.
